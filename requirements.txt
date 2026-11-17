@@ -1,0 +1,9 @@
+qiskit-ibm-runtime>=0.51
+samplomatic[vis]
+
+# To execute the last section in the notebook, you will need a preview branch of qiskit.
+# This involves installing from scratch, and therefore a rust compiler.
+# See https://github.com/Qiskit/qiskit/blob/main/CONTRIBUTING.md#building-qiskit-from-source
+# qiskit @ git+https://github.com/Qiskit/qiskit.git@backendv3-qdc
+
+qiskit>=2.6
